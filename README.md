@@ -1,7 +1,5 @@
 # 종합설계 프로젝트 (spring)
 
-# spring 프로젝트
-
 <h2>branch [php] 안드로이드에서 MySQL 데이터 교환</h2>
 <h3>android studio <=> AWS EC2 php(apache) <=> AWS EC2 MySQL</h3><br>
 <h4>[DB 시스템 구성도]</h4>
