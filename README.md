@@ -1,4 +1,5 @@
-종합설계 프로젝트 (spring)
+# 종합설계 프로젝트 (spring)
 
-spring 프로젝트 올리는 저장소
-여기에 프로젝트 올리고 서버(ec2)로 배포한다.
+# spring 프로젝트
+<br>
+<h3>branch : php & fcm</h3>
